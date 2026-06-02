@@ -9,21 +9,21 @@ Kesibukan aku saat ini
 - Ngeasdos
 - dll
 
-[Instagram Aku](www.instagram.com/jokitugas_bymnc?igsh=MWtjZTR1eG5zbHV5OA%3D%3D)
+[Instagram Aku](https://www.instagram.com/khalishaulfaa/)
 
 
 ```html
-<a href="https://github.com/strawhangemouvin">GitHub Aku</a>
+<a href="https://github.com/khalishaUlfaa02">GitHub Aku</a>
 ```
 |Hari|Kegiatan|
 |----|--------|
-|Senin|Ngampus| 
-|Selasa|Ngampus|
-|Rabu|Ngampus|
-|Kamis|Ngampus|
-|Jumat|Ngampus|
-|Sabtu|Ngajar|
-|Minggu|Nyantai|
+|Senin|Ngampus, Magang| 
+|Selasa|Ngampus, Ngeasdos, Magang|
+|Rabu|Ngampus, Magang|
+|Kamis|Ngampus, Magang, Pembinaan|
+|Jumat|Ngampus, Magang|
+|Sabtu|Pelatihan, Magang|
+|Minggu|Nyantaiiiiii|
 
 
 test commit di branch testing
